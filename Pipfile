@@ -12,6 +12,7 @@ pandas = "*"
 scipy = "*"
 matplotlib = "*"
 jinja2 = "==2.10.1"
+statsmodels = "*"
 
 [requires]
 python_version = "3.7"
